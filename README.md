@@ -1,0 +1,1 @@
+# Modelos_de_Linguagem_e_Generativos_Vanilla_LLM_1
