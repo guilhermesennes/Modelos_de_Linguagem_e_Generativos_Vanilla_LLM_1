@@ -136,7 +136,7 @@ A matriz de confusão para o baseline foi:
 
 ### 9. Autores
 
-- Guilherme Vinicius Sennes Domingues – 10751468
-- Matheus Klein – 00000
-- Wendell Lima – 0000
+- Guilherme Vinicius Sennes Domingues – 10751468@mackenzista.com.br
+- Mateus Klein Lourenço – 10388729@mackenzista.com.br
+- Wendell Lima – Wendell de lima - 10746314@mackenzista.com.br
 
