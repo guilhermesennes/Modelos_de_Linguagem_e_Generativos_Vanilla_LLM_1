@@ -1,4 +1,3 @@
-````markdown
 # Classificação de Sentimento em Reviews do IMDb com Modelos Abertos (Zero-Shot vs RAG)
 
 Projeto desenvolvido para a disciplina de **Modelos de Linguagem e Generativos**, comparando uma abordagem de **Text Zero-Shot Classification** com uma solução baseada em **Retrieval-Augmented Generation (RAG)**, utilizando exclusivamente modelos e recursos abertos e executáveis em Google Colab.
