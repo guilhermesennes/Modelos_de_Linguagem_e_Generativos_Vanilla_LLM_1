@@ -143,5 +143,5 @@ No conjunto de teste com 200 reviews, o modelo Zero-Shot apresentou:
 
 - Guilherme Vinicius Sennes Domingues – 10751468@mackenzista.com.br
 - Mateus Klein Lourenço – 10388729@mackenzista.com.br
-- Wendell Lima – Wendell de lima - 10746314@mackenzista.com.br
+- Wendell de lima - 10746314@mackenzista.com.br
 
