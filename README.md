@@ -139,7 +139,11 @@ No conjunto de teste com 200 reviews, o modelo Zero-Shot apresentou:
  [13 83]]
 ```
 
-### 9. Autores
+### 9. URL do Youtube
+
+https://www.youtube.com/watch?v=6m6jaZE9oho
+
+### 10. Autores
 
 - Guilherme Vinicius Sennes Domingues – 10751468@mackenzista.com.br
 - Mateus Klein Lourenço – 10388729@mackenzista.com.br
